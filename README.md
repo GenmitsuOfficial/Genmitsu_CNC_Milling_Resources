@@ -2,7 +2,7 @@
 
 Non-commercial Milling Resources for Genmitsu CNC,CLaser Machine providing publicly available: Gcode files etc.
 
-#List
+# List
 
 ## [LionHead](https://github.com/GenmitsuOfficial/Genmitsu_CNC_Milling_Resources/wiki/LionHead)
 
@@ -10,6 +10,6 @@ Non-commercial Milling Resources for Genmitsu CNC,CLaser Machine providing publi
 
 
 
-## [sainsmartLittleMan]
+## [sainsmartLittleMan](https://github.com/GenmitsuOfficial/Genmitsu_CNC_Milling_Resources/wiki/sainsmartLittleMan)
 
 <img width="386" alt="1435e3a33aea1f483e8f2e6dd74e595" src="https://github.com/user-attachments/assets/6a41c62a-aa49-4dd9-8bff-46931f6efe78" />
